@@ -4,6 +4,9 @@ import 'package:flutter_rest_api/examplefour.dart';
 import 'package:flutter_rest_api/examplethree.dart';
 import 'package:flutter_rest_api/exampletwo.dart';
 import 'package:flutter_rest_api/home_screen.dart';
+import 'package:flutter_rest_api/signup.dart';
+import 'package:flutter_rest_api/upload_image.dart';
+import 'package:flutter_rest_api/upload_image2.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,7 +22,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const LastExampleScreen(),
+      home: const UploadImageScreenTwo(),
     );
   }
 }

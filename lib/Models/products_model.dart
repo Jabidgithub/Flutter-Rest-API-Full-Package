@@ -1,6 +1,6 @@
 /// success : true
-/// message : "All Data"
-/// data : [{"_id":"619c8e3500622d79441b9540","on_sale":true,"sale_percent":20,"sold":12,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"EMTSI21-50199","categories":{"_id":"612c8b2b674ad2107eb2d244","type":"Women","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"http://54.219.221.136:5000/file-1635166478569-362580145.png","__v":0},"subcate":{"_id":"616e81dba17386218e27a2b5","date":"2021-10-18T10:52:11.222Z","name":"Shirts","parentid":"612c8b2b674ad2107eb2d244","__v":0},"shop":{"_id":"619c85e200622d79441b016f","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"Edenrobe","description":"The is Edenrobe brand","shopemail":"edenrobe@gmail.com","shopaddress":"Islamabad F8","shopcity":"Islamabad","userid":"619c85e100622d79441b015d","image":"https://image.shutterstock.com/image-photo/hong-kong-january-26-2016-600w-375233593.jpg","__v":0},"price":"2,790.00","sale_title":"Winter Sale","sale_price":"1,953.00","description":"Classic Collar\nGrey Texture Striped Dobby\nCotton\nBarrel Cuff\nSlim Fit\n100% Cotton\nSolid\nMachine Washable\nProduct Code: EMTSUC21-134","colors":"#FF6347,#CD5C5C","size":"S,M,L,XL,XXL","images":[{"_id":"619c8e4400622d79441b9631","filename":"images[0]-1637649987263-936766588.webp","url":"https://image.shutterstock.com/image-photo/sexy-woman-white-tshirt-on-600w-746398405.jpg"},{"_id":"619c8e4400622d79441b9632","filename":"images[1]-1637649987919-666952226.webp","url":"https://image.shutterstock.com/image-photo/stylish-blonde-girl-wearing-black-600w-1766656019.jpg"},{"_id":"619c8e4400622d79441b9633","filename":"images[2]-1637649988328-112759468.webp","url":"https://image.shutterstock.com/image-photo/tshirt-design-concept-woman-blank-600w-149214662.jpg"}],"__v":1,"in_wishlist":false},{"_id":"619c8e3500622d79441b9540","on_sale":true,"sale_percent":20,"sold":12,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"EMTSI21-50199","categories":{"_id":"612c8b2b674ad2107eb2d244","type":"Women","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"http://54.219.221.136:5000/file-1635166478569-362580145.png","__v":0},"subcate":{"_id":"616e81dba17386218e27a2b5","date":"2021-10-18T10:52:11.222Z","name":"Shirts","parentid":"612c8b2b674ad2107eb2d244","__v":0},"shop":{"_id":"619c85e200622d79441b016f","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"Edenrobe","description":"The is Edenrobe brand","shopemail":"edenrobe@gmail.com","shopaddress":"Islamabad F8","shopcity":"Islamabad","userid":"619c85e100622d79441b015d","image":"https://image.shutterstock.com/image-photo/hong-kong-january-26-2016-600w-375233593.jpg","__v":0},"price":"2,790.00","sale_title":"Winter Sale","sale_price":"1,953.00","description":"Classic Collar\nGrey Texture Striped Dobby\nCotton\nBarrel Cuff\nSlim Fit\n100% Cotton\nSolid\nMachine Washable\nProduct Code: EMTSUC21-134","colors":"#FF6347,#CD5C5C","size":"S,M,L,XL,XXL","images":[{"_id":"619c8e4400622d79441b9631","filename":"images[0]-1637649987263-936766588.webp","url":"https://image.shutterstock.com/image-photo/sexy-woman-white-tshirt-on-600w-746398405.jpg"},{"_id":"619c8e4400622d79441b9632","filename":"images[1]-1637649987919-666952226.webp","url":"https://image.shutterstock.com/image-photo/stylish-blonde-girl-wearing-black-600w-1766656019.jpg"},{"_id":"619c8e4400622d79441b9633","filename":"images[2]-1637649988328-112759468.webp","url":"https://image.shutterstock.com/image-photo/tshirt-design-concept-woman-blank-600w-149214662.jpg"}],"__v":1,"in_wishlist":false},{"_id":"619c8e3500622d79441b9540","on_sale":true,"sale_percent":20,"sold":12,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"EMTSI21-50199","categories":{"_id":"612c8b2b674ad2107eb2d244","type":"Women","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"http://54.219.221.136:5000/file-1635166478569-362580145.png","__v":0},"subcate":{"_id":"616e81dba17386218e27a2b5","date":"2021-10-18T10:52:11.222Z","name":"Shirts","parentid":"612c8b2b674ad2107eb2d244","__v":0},"shop":{"_id":"619c85e200622d79441b016f","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"Edenrobe","description":"The is Edenrobe brand","shopemail":"edenrobe@gmail.com","shopaddress":"Islamabad F8","shopcity":"Islamabad","userid":"619c85e100622d79441b015d","image":"https://image.shutterstock.com/image-photo/hong-kong-january-26-2016-600w-375233593.jpg","__v":0},"price":"2,790.00","sale_title":"Winter Sale","sale_price":"1,953.00","description":"Classic Collar\nGrey Texture Striped Dobby\nCotton\nBarrel Cuff\nSlim Fit\n100% Cotton\nSolid\nMachine Washable\nProduct Code: EMTSUC21-134","colors":"#FF6347,#CD5C5C","size":"S,M,L,XL,XXL","images":[{"_id":"619c8e4400622d79441b9631","filename":"images[0]-1637649987263-936766588.webp","url":"https://image.shutterstock.com/image-photo/sexy-woman-white-tshirt-on-600w-746398405.jpg"},{"_id":"619c8e4400622d79441b9632","filename":"images[1]-1637649987919-666952226.webp","url":"https://image.shutterstock.com/image-photo/stylish-blonde-girl-wearing-black-600w-1766656019.jpg"},{"_id":"619c8e4400622d79441b9633","filename":"images[2]-1637649988328-112759468.webp","url":"https://image.shutterstock.com/image-photo/tshirt-design-concept-woman-blank-600w-149214662.jpg"}],"__v":1,"in_wishlist":false}]
+/// message : "All Shops Data"
+/// data : [{"_id":"6196377900622d794418644b","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"ONE","description":"Clothing store in Islamabad","shopemail":"ONE@gmail.com","shopaddress":"islamabad","shopcity":"Islamabad","userid":"6196377800622d7944186447","image":"https://www.shutterstock.com/image-photo/head-shot-portrait-close-smiling-confident-1714666150","__v":0,"products":[{"_id":"61963b4300622d794418687e","on_sale":true,"sale_percent":0,"sold":10,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"Denim Shirt Grey","categories":"612c8b2b674ad2107eb2d244","subcate":"616e81dba17386218e27a2b5","shop":"6196377900622d794418644b","price":"3,490 ","sale_title":"3,490 ","sale_price":"2,443","description":"men shirt","colors":"Red","size":"S,M,X,XL","images":[{"_id":"61963b4300622d794418687f","filename":"images[0]-1637235522052-730096647.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187316","filename":"images[0]-1637235757437-927339951.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187317","filename":"images[1]-1637235758276-122593199.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"}],"__v":1,"in_wishlist":false},{"_id":"6197493700622d794418cdec","on_sale":true,"sale_percent":10,"sold":8,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"Printed Hoodie Grey","categories":"616e8081a17386218e27a206","subcate":"616e84b2a17386218e27a420","shop":"6196377900622d794418644b","price":"3,590 ","sale_title":"3,590 ","sale_price":"2,513","description":"ssss","colors":"#CD5C5C","size":"S,M,L,XL,XXL","images":[{"_id":"6197493700622d794418cded","filename":"images[0]-1637304627221-448731879.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"6197493700622d794418cdee","filename":"images[1]-1637304628418-102234457.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"6197493700622d794418cdef","filename":"images[2]-1637304629564-380376274.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"}],"__v":0,"in_wishlist":false}]}]
 
 class ProductsModel {
   ProductsModel({
@@ -26,7 +26,16 @@ class ProductsModel {
   bool? _success;
   String? _message;
   List<Data>? _data;
-
+  ProductsModel copyWith({
+    bool? success,
+    String? message,
+    List<Data>? data,
+  }) =>
+      ProductsModel(
+        success: success ?? _success,
+        message: message ?? _message,
+        data: data ?? _data,
+      );
   bool? get success => _success;
   String? get message => _message;
   List<Data>? get data => _data;
@@ -42,42 +51,176 @@ class ProductsModel {
   }
 }
 
-/// _id : "619c8e3500622d79441b9540"
-/// on_sale : true
-/// sale_percent : 20
-/// sold : 12
-/// slider_new : false
-/// slider_recent : false
-/// slider_sold : false
-/// date : "2021-11-18T09:03:04.358Z"
-/// title : "EMTSI21-50199"
-/// categories : {"_id":"612c8b2b674ad2107eb2d244","type":"Women","date":"2021-08-30T07:29:45.558Z","name":"Clothes","image":"http://54.219.221.136:5000/file-1635166478569-362580145.png","__v":0}
-/// subcate : {"_id":"616e81dba17386218e27a2b5","date":"2021-10-18T10:52:11.222Z","name":"Shirts","parentid":"612c8b2b674ad2107eb2d244","__v":0}
-/// shop : {"_id":"619c85e200622d79441b016f","is_active":false,"created_at":"2021-11-18T09:03:04.356Z","name":"Edenrobe","description":"The is Edenrobe brand","shopemail":"edenrobe@gmail.com","shopaddress":"Islamabad F8","shopcity":"Islamabad","userid":"619c85e100622d79441b015d","image":"https://image.shutterstock.com/image-photo/hong-kong-january-26-2016-600w-375233593.jpg","__v":0}
-/// price : "2,790.00"
-/// sale_title : "Winter Sale"
-/// sale_price : "1,953.00"
-/// description : "Classic Collar\nGrey Texture Striped Dobby\nCotton\nBarrel Cuff\nSlim Fit\n100% Cotton\nSolid\nMachine Washable\nProduct Code: EMTSUC21-134"
-/// colors : "#FF6347,#CD5C5C"
-/// size : "S,M,L,XL,XXL"
-/// images : [{"_id":"619c8e4400622d79441b9631","filename":"images[0]-1637649987263-936766588.webp","url":"https://image.shutterstock.com/image-photo/sexy-woman-white-tshirt-on-600w-746398405.jpg"},{"_id":"619c8e4400622d79441b9632","filename":"images[1]-1637649987919-666952226.webp","url":"https://image.shutterstock.com/image-photo/stylish-blonde-girl-wearing-black-600w-1766656019.jpg"},{"_id":"619c8e4400622d79441b9633","filename":"images[2]-1637649988328-112759468.webp","url":"https://image.shutterstock.com/image-photo/tshirt-design-concept-woman-blank-600w-149214662.jpg"}]
-/// __v : 1
-/// in_wishlist : false
+/// _id : "6196377900622d794418644b"
+/// is_active : false
+/// created_at : "2021-11-18T09:03:04.356Z"
+/// name : "ONE"
+/// description : "Clothing store in Islamabad"
+/// shopemail : "ONE@gmail.com"
+/// shopaddress : "islamabad"
+/// shopcity : "Islamabad"
+/// userid : "6196377800622d7944186447"
+/// image : "https://www.shutterstock.com/image-photo/head-shot-portrait-close-smiling-confident-1714666150"
+/// __v : 0
+/// products : [{"_id":"61963b4300622d794418687e","on_sale":true,"sale_percent":0,"sold":10,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"Denim Shirt Grey","categories":"612c8b2b674ad2107eb2d244","subcate":"616e81dba17386218e27a2b5","shop":"6196377900622d794418644b","price":"3,490 ","sale_title":"3,490 ","sale_price":"2,443","description":"men shirt","colors":"Red","size":"S,M,X,XL","images":[{"_id":"61963b4300622d794418687f","filename":"images[0]-1637235522052-730096647.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187316","filename":"images[0]-1637235757437-927339951.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187317","filename":"images[1]-1637235758276-122593199.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"}],"__v":1,"in_wishlist":false},{"_id":"6197493700622d794418cdec","on_sale":true,"sale_percent":10,"sold":8,"slider_new":false,"slider_recent":false,"slider_sold":false,"date":"2021-11-18T09:03:04.358Z","title":"Printed Hoodie Grey","categories":"616e8081a17386218e27a206","subcate":"616e84b2a17386218e27a420","shop":"6196377900622d794418644b","price":"3,590 ","sale_title":"3,590 ","sale_price":"2,513","description":"ssss","colors":"#CD5C5C","size":"S,M,L,XL,XXL","images":[{"_id":"6197493700622d794418cded","filename":"images[0]-1637304627221-448731879.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"6197493700622d794418cdee","filename":"images[1]-1637304628418-102234457.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"6197493700622d794418cdef","filename":"images[2]-1637304629564-380376274.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"}],"__v":0,"in_wishlist":false}]
 
 class Data {
   Data({
     String? id,
+    bool? isActive,
+    String? createdAt,
+    String? name,
+    String? description,
+    String? shopemail,
+    String? shopaddress,
+    String? shopcity,
+    String? userid,
+    String? image,
+    num? v,
+    List<Products>? products,
+  }) {
+    _id = id;
+    _isActive = isActive;
+    _createdAt = createdAt;
+    _name = name;
+    _description = description;
+    _shopemail = shopemail;
+    _shopaddress = shopaddress;
+    _shopcity = shopcity;
+    _userid = userid;
+    _image = image;
+    _v = v;
+    _products = products;
+  }
+
+  Data.fromJson(dynamic json) {
+    _id = json['_id'];
+    _isActive = json['is_active'];
+    _createdAt = json['created_at'];
+    _name = json['name'];
+    _description = json['description'];
+    _shopemail = json['shopemail'];
+    _shopaddress = json['shopaddress'];
+    _shopcity = json['shopcity'];
+    _userid = json['userid'];
+    _image = json['image'];
+    _v = json['__v'];
+    if (json['products'] != null) {
+      _products = [];
+      json['products'].forEach((v) {
+        _products?.add(Products.fromJson(v));
+      });
+    }
+  }
+  String? _id;
+  bool? _isActive;
+  String? _createdAt;
+  String? _name;
+  String? _description;
+  String? _shopemail;
+  String? _shopaddress;
+  String? _shopcity;
+  String? _userid;
+  String? _image;
+  num? _v;
+  List<Products>? _products;
+  Data copyWith({
+    String? id,
+    bool? isActive,
+    String? createdAt,
+    String? name,
+    String? description,
+    String? shopemail,
+    String? shopaddress,
+    String? shopcity,
+    String? userid,
+    String? image,
+    num? v,
+    List<Products>? products,
+  }) =>
+      Data(
+        id: id ?? _id,
+        isActive: isActive ?? _isActive,
+        createdAt: createdAt ?? _createdAt,
+        name: name ?? _name,
+        description: description ?? _description,
+        shopemail: shopemail ?? _shopemail,
+        shopaddress: shopaddress ?? _shopaddress,
+        shopcity: shopcity ?? _shopcity,
+        userid: userid ?? _userid,
+        image: image ?? _image,
+        v: v ?? _v,
+        products: products ?? _products,
+      );
+  String? get id => _id;
+  bool? get isActive => _isActive;
+  String? get createdAt => _createdAt;
+  String? get name => _name;
+  String? get description => _description;
+  String? get shopemail => _shopemail;
+  String? get shopaddress => _shopaddress;
+  String? get shopcity => _shopcity;
+  String? get userid => _userid;
+  String? get image => _image;
+  num? get v => _v;
+  List<Products>? get products => _products;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['_id'] = _id;
+    map['is_active'] = _isActive;
+    map['created_at'] = _createdAt;
+    map['name'] = _name;
+    map['description'] = _description;
+    map['shopemail'] = _shopemail;
+    map['shopaddress'] = _shopaddress;
+    map['shopcity'] = _shopcity;
+    map['userid'] = _userid;
+    map['image'] = _image;
+    map['__v'] = _v;
+    if (_products != null) {
+      map['products'] = _products?.map((v) => v.toJson()).toList();
+    }
+    return map;
+  }
+}
+
+/// _id : "61963b4300622d794418687e"
+/// on_sale : true
+/// sale_percent : 0
+/// sold : 10
+/// slider_new : false
+/// slider_recent : false
+/// slider_sold : false
+/// date : "2021-11-18T09:03:04.358Z"
+/// title : "Denim Shirt Grey"
+/// categories : "612c8b2b674ad2107eb2d244"
+/// subcate : "616e81dba17386218e27a2b5"
+/// shop : "6196377900622d794418644b"
+/// price : "3,490 "
+/// sale_title : "3,490 "
+/// sale_price : "2,443"
+/// description : "men shirt"
+/// colors : "Red"
+/// size : "S,M,X,XL"
+/// images : [{"_id":"61963b4300622d794418687f","filename":"images[0]-1637235522052-730096647.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187316","filename":"images[0]-1637235757437-927339951.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"},{"_id":"61963c2e00622d7944187317","filename":"images[1]-1637235758276-122593199.jpeg","url":"https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"}]
+/// __v : 1
+/// in_wishlist : false
+
+class Products {
+  Products({
+    String? id,
     bool? onSale,
-    int? salePercent,
-    int? sold,
+    num? salePercent,
+    num? sold,
     bool? sliderNew,
     bool? sliderRecent,
     bool? sliderSold,
     String? date,
     String? title,
-    Categories? categories,
-    Subcate? subcate,
-    Shop? shop,
+    String? categories,
+    String? subcate,
+    String? shop,
     String? price,
     String? saleTitle,
     String? salePrice,
@@ -85,7 +228,7 @@ class Data {
     String? colors,
     String? size,
     List<Images>? images,
-    int? v,
+    num? v,
     bool? inWishlist,
   }) {
     _id = id;
@@ -111,7 +254,7 @@ class Data {
     _inWishlist = inWishlist;
   }
 
-  Data.fromJson(dynamic json) {
+  Products.fromJson(dynamic json) {
     _id = json['_id'];
     _onSale = json['on_sale'];
     _salePercent = json['sale_percent'];
@@ -121,12 +264,9 @@ class Data {
     _sliderSold = json['slider_sold'];
     _date = json['date'];
     _title = json['title'];
-    _categories = json['categories'] != null
-        ? Categories.fromJson(json['categories'])
-        : null;
-    _subcate =
-        json['subcate'] != null ? Subcate.fromJson(json['subcate']) : null;
-    _shop = json['shop'] != null ? Shop.fromJson(json['shop']) : null;
+    _categories = json['categories'];
+    _subcate = json['subcate'];
+    _shop = json['shop'];
     _price = json['price'];
     _saleTitle = json['sale_title'];
     _salePrice = json['sale_price'];
@@ -144,16 +284,16 @@ class Data {
   }
   String? _id;
   bool? _onSale;
-  int? _salePercent;
-  int? _sold;
+  num? _salePercent;
+  num? _sold;
   bool? _sliderNew;
   bool? _sliderRecent;
   bool? _sliderSold;
   String? _date;
   String? _title;
-  Categories? _categories;
-  Subcate? _subcate;
-  Shop? _shop;
+  String? _categories;
+  String? _subcate;
+  String? _shop;
   String? _price;
   String? _saleTitle;
   String? _salePrice;
@@ -161,21 +301,66 @@ class Data {
   String? _colors;
   String? _size;
   List<Images>? _images;
-  int? _v;
+  num? _v;
   bool? _inWishlist;
-
+  Products copyWith({
+    String? id,
+    bool? onSale,
+    num? salePercent,
+    num? sold,
+    bool? sliderNew,
+    bool? sliderRecent,
+    bool? sliderSold,
+    String? date,
+    String? title,
+    String? categories,
+    String? subcate,
+    String? shop,
+    String? price,
+    String? saleTitle,
+    String? salePrice,
+    String? description,
+    String? colors,
+    String? size,
+    List<Images>? images,
+    num? v,
+    bool? inWishlist,
+  }) =>
+      Products(
+        id: id ?? _id,
+        onSale: onSale ?? _onSale,
+        salePercent: salePercent ?? _salePercent,
+        sold: sold ?? _sold,
+        sliderNew: sliderNew ?? _sliderNew,
+        sliderRecent: sliderRecent ?? _sliderRecent,
+        sliderSold: sliderSold ?? _sliderSold,
+        date: date ?? _date,
+        title: title ?? _title,
+        categories: categories ?? _categories,
+        subcate: subcate ?? _subcate,
+        shop: shop ?? _shop,
+        price: price ?? _price,
+        saleTitle: saleTitle ?? _saleTitle,
+        salePrice: salePrice ?? _salePrice,
+        description: description ?? _description,
+        colors: colors ?? _colors,
+        size: size ?? _size,
+        images: images ?? _images,
+        v: v ?? _v,
+        inWishlist: inWishlist ?? _inWishlist,
+      );
   String? get id => _id;
   bool? get onSale => _onSale;
-  int? get salePercent => _salePercent;
-  int? get sold => _sold;
+  num? get salePercent => _salePercent;
+  num? get sold => _sold;
   bool? get sliderNew => _sliderNew;
   bool? get sliderRecent => _sliderRecent;
   bool? get sliderSold => _sliderSold;
   String? get date => _date;
   String? get title => _title;
-  Categories? get categories => _categories;
-  Subcate? get subcate => _subcate;
-  Shop? get shop => _shop;
+  String? get categories => _categories;
+  String? get subcate => _subcate;
+  String? get shop => _shop;
   String? get price => _price;
   String? get saleTitle => _saleTitle;
   String? get salePrice => _salePrice;
@@ -183,7 +368,7 @@ class Data {
   String? get colors => _colors;
   String? get size => _size;
   List<Images>? get images => _images;
-  int? get v => _v;
+  num? get v => _v;
   bool? get inWishlist => _inWishlist;
 
   Map<String, dynamic> toJson() {
@@ -197,15 +382,9 @@ class Data {
     map['slider_sold'] = _sliderSold;
     map['date'] = _date;
     map['title'] = _title;
-    if (_categories != null) {
-      map['categories'] = _categories?.toJson();
-    }
-    if (_subcate != null) {
-      map['subcate'] = _subcate?.toJson();
-    }
-    if (_shop != null) {
-      map['shop'] = _shop?.toJson();
-    }
+    map['categories'] = _categories;
+    map['subcate'] = _subcate;
+    map['shop'] = _shop;
     map['price'] = _price;
     map['sale_title'] = _saleTitle;
     map['sale_price'] = _salePrice;
@@ -221,9 +400,9 @@ class Data {
   }
 }
 
-/// _id : "619c8e4400622d79441b9631"
-/// filename : "images[0]-1637649987263-936766588.webp"
-/// url : "https://image.shutterstock.com/image-photo/sexy-woman-white-tshirt-on-600w-746398405.jpg"
+/// _id : "61963b4300622d794418687f"
+/// filename : "images[0]-1637235522052-730096647.jpeg"
+/// url : "https://www.shutterstock.com/image-photo/30092019-riga-latvia-sports-girl-prepares-1616559388"
 
 class Images {
   Images({
@@ -244,7 +423,16 @@ class Images {
   String? _id;
   String? _filename;
   String? _url;
-
+  Images copyWith({
+    String? id,
+    String? filename,
+    String? url,
+  }) =>
+      Images(
+        id: id ?? _id,
+        filename: filename ?? _filename,
+        url: url ?? _url,
+      );
   String? get id => _id;
   String? get filename => _filename;
   String? get url => _url;
@@ -254,208 +442,6 @@ class Images {
     map['_id'] = _id;
     map['filename'] = _filename;
     map['url'] = _url;
-    return map;
-  }
-}
-
-/// _id : "619c85e200622d79441b016f"
-/// is_active : false
-/// created_at : "2021-11-18T09:03:04.356Z"
-/// name : "Edenrobe"
-/// description : "The is Edenrobe brand"
-/// shopemail : "edenrobe@gmail.com"
-/// shopaddress : "Islamabad F8"
-/// shopcity : "Islamabad"
-/// userid : "619c85e100622d79441b015d"
-/// image : "https://image.shutterstock.com/image-photo/hong-kong-january-26-2016-600w-375233593.jpg"
-/// __v : 0
-
-class Shop {
-  Shop({
-    String? id,
-    bool? isActive,
-    String? createdAt,
-    String? name,
-    String? description,
-    String? shopemail,
-    String? shopaddress,
-    String? shopcity,
-    String? userid,
-    String? image,
-    int? v,
-  }) {
-    _id = id;
-    _isActive = isActive;
-    _createdAt = createdAt;
-    _name = name;
-    _description = description;
-    _shopemail = shopemail;
-    _shopaddress = shopaddress;
-    _shopcity = shopcity;
-    _userid = userid;
-    _image = image;
-    _v = v;
-  }
-
-  Shop.fromJson(dynamic json) {
-    _id = json['_id'];
-    _isActive = json['is_active'];
-    _createdAt = json['created_at'];
-    _name = json['name'];
-    _description = json['description'];
-    _shopemail = json['shopemail'];
-    _shopaddress = json['shopaddress'];
-    _shopcity = json['shopcity'];
-    _userid = json['userid'];
-    _image = json['image'];
-    _v = json['__v'];
-  }
-  String? _id;
-  bool? _isActive;
-  String? _createdAt;
-  String? _name;
-  String? _description;
-  String? _shopemail;
-  String? _shopaddress;
-  String? _shopcity;
-  String? _userid;
-  String? _image;
-  int? _v;
-
-  String? get id => _id;
-  bool? get isActive => _isActive;
-  String? get createdAt => _createdAt;
-  String? get name => _name;
-  String? get description => _description;
-  String? get shopemail => _shopemail;
-  String? get shopaddress => _shopaddress;
-  String? get shopcity => _shopcity;
-  String? get userid => _userid;
-  String? get image => _image;
-  int? get v => _v;
-
-  Map<String, dynamic> toJson() {
-    final map = <String, dynamic>{};
-    map['_id'] = _id;
-    map['is_active'] = _isActive;
-    map['created_at'] = _createdAt;
-    map['name'] = _name;
-    map['description'] = _description;
-    map['shopemail'] = _shopemail;
-    map['shopaddress'] = _shopaddress;
-    map['shopcity'] = _shopcity;
-    map['userid'] = _userid;
-    map['image'] = _image;
-    map['__v'] = _v;
-    return map;
-  }
-}
-
-/// _id : "616e81dba17386218e27a2b5"
-/// date : "2021-10-18T10:52:11.222Z"
-/// name : "Shirts"
-/// parentid : "612c8b2b674ad2107eb2d244"
-/// __v : 0
-
-class Subcate {
-  Subcate({
-    String? id,
-    String? date,
-    String? name,
-    String? parentid,
-    int? v,
-  }) {
-    _id = id;
-    _date = date;
-    _name = name;
-    _parentid = parentid;
-    _v = v;
-  }
-
-  Subcate.fromJson(dynamic json) {
-    _id = json['_id'];
-    _date = json['date'];
-    _name = json['name'];
-    _parentid = json['parentid'];
-    _v = json['__v'];
-  }
-  String? _id;
-  String? _date;
-  String? _name;
-  String? _parentid;
-  int? _v;
-
-  String? get id => _id;
-  String? get date => _date;
-  String? get name => _name;
-  String? get parentid => _parentid;
-  int? get v => _v;
-
-  Map<String, dynamic> toJson() {
-    final map = <String, dynamic>{};
-    map['_id'] = _id;
-    map['date'] = _date;
-    map['name'] = _name;
-    map['parentid'] = _parentid;
-    map['__v'] = _v;
-    return map;
-  }
-}
-
-/// _id : "612c8b2b674ad2107eb2d244"
-/// type : "Women"
-/// date : "2021-08-30T07:29:45.558Z"
-/// name : "Clothes"
-/// image : "http://54.219.221.136:5000/file-1635166478569-362580145.png"
-/// __v : 0
-
-class Categories {
-  Categories({
-    String? id,
-    String? type,
-    String? date,
-    String? name,
-    String? image,
-    int? v,
-  }) {
-    _id = id;
-    _type = type;
-    _date = date;
-    _name = name;
-    _image = image;
-    _v = v;
-  }
-
-  Categories.fromJson(dynamic json) {
-    _id = json['_id'];
-    _type = json['type'];
-    _date = json['date'];
-    _name = json['name'];
-    _image = json['image'];
-    _v = json['__v'];
-  }
-  String? _id;
-  String? _type;
-  String? _date;
-  String? _name;
-  String? _image;
-  int? _v;
-
-  String? get id => _id;
-  String? get type => _type;
-  String? get date => _date;
-  String? get name => _name;
-  String? get image => _image;
-  int? get v => _v;
-
-  Map<String, dynamic> toJson() {
-    final map = <String, dynamic>{};
-    map['_id'] = _id;
-    map['type'] = _type;
-    map['date'] = _date;
-    map['name'] = _name;
-    map['image'] = _image;
-    map['__v'] = _v;
     return map;
   }
 }
